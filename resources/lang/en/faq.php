@@ -1,0 +1,45 @@
+<?php
+
+return [
+    'heading' => '​Frequently Asked Questions(FAQ)',
+    'q1' => 'WHAT DOES APPCO DO?',
+    'q2' => 'HOW CAN I INVEST?',
+    'q3' => 'WHAT CURRENCIES CAN I INVEST?',
+    'q4' => 'DO I NEED KYC TO PARTICIPATE?',
+    'q5' => 'CAN I HAVE MULTIPLE INVESTMENT PLANS RUNNING AT THE SAME TIME?',
+    'q6' => 'CAN I CANCEL MY INVESTMENT PLAN?',
+    'q7' => 'WHAT IS THE MINIMUM AND MAXIMUM INVESTMENT AMOUNT?',
+    'q8' => 'HOW LONG DOES WITHDRAWAL TAKE?',
+    'q9' => 'DO YOU CHARGE FEES FOR WITHDRAWALS?',
+    'q10' => ' HOW MUCH IS THE MINIMUM WITHDRAWAL AMOUNT?',
+    'q11' => ' CAN I REINVEST FROM AVAILABLE BALANCE?',
+    'q12' => 'HOW MUCH COMMISSION CAN I EARN FOR REFERRALS?',
+    'q13' => "HOW CAN I EARN FROM THE EARN </strong><strong>More&trade; CAMPAIGN?",
+    'q14' => 'DO I NEED AN ACTIVE DEPOSIT TO EARN FROM REFERRALS?',
+
+    'a1' => 'We are an investment company that focuses solely on technology investments especially mobile application startups.',
+    'a2' => 'Just sign-up on the website, deposit your funds and choose any plan of your choice.',
+    'a3' => 'We accept Bitcoin, Ethereum, Litecoin, Ripple Coin, Dogecoin, Dash, Perfect Money and Payeer.',
+    'a4' => 'We value the privacy of our investors and this is why we do not require any documents to sign-up on the platform and start investing nor do we require identity verification for withdrawals.',
+    'a5' => 'Yes, you can have multiple plans running at the same time in the same account but we do not accept multiple accounts on the platform.',
+    'a6' => "You cannot cancel your investment on the <strong>Daily Plan</strong>, however, you can cancel your investment on the<strong> Forever Plan. </strong>Cancellation of the <strong>Forever Plan</strong> attracts a 10% cancellation fee.",
+    'a7' => [
+        'daily' => 'Daily Plan',
+        'forever' => 'Forever Plan',
+        'a1' => 'Minimum investment amount is $10',
+        'a2' => 'Maximum investment amount is $50,000',
+        'b1' => 'Minimum investment of $50',
+        'b2' => 'Maximum investment of $500,000',
+    ],
+    'a8' => 'Withdrawals are processed within a maximum of 48 hours.',
+    'a9' => 'We do not charge any fees to withdraw funds in the platform.',
+    'a10' => 'The minimum withdrawal amount in the platform is $10.',
+    'a10i' => 'Payeer and Perfect Money is $1.',
+    'a11' => 'Yes you can, and you can earn extra 0.2% each time you reinvest from your balance for a maximum of 5 times.',
+    'a12' => 'We offer a 5% referral commission on the first deposit made by your referrals.',
+    'a13' => 'Having an active investment qualifies you for the earndrop where you can earn different amounts for different tasks once every 48 hours.',
+    'a14' => 'Anybody can earn from our affiliate program and you do not need to have an active deposit to earn referral bonus.',
+
+    'join' => 'Join Now',
+    'dashboard' => 'Dashboard'
+];
