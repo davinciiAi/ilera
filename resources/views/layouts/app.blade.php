@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
     <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-    <title>Paylo - Shaping your dream investment</title>
+    <title>Ilera - Our elderly deserve good health</title>
 
     <!-- Bootstrap -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
